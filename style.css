@@ -1,0 +1,34 @@
+.header,.footer{
+    text-align: center;
+    background-color: #338b8b;
+
+}
+nav{
+    text-align: right;
+    background-color: #7deb8c;
+    color: black;
+}
+.breakfast{
+    text-align: center;
+    font-style: italic;
+    background-color: #a3681a;
+
+}
+.lunch,.dinner{
+    text-align: center;
+    font-weight: 100;
+    background-color: rgb(151, 25, 120);
+    
+}
+.order{
+    text-align: center;
+    font-style: oblique;
+    background-color: black;
+    color: #7deb8c;
+
+}
+.h2{
+    text-align: center;
+    font-style: italic;
+    color: bisque;
+}
